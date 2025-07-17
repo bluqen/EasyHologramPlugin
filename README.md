@@ -12,7 +12,7 @@ A lightweight and beginner-friendly Minecraft Spigot plugin for creating and man
 
 ## 📦 Installation
 
-1. Download the compiled `.jar` file from the [releases](https://github.com/bluqen/EasyHologramPlugin/releases) page (or build it yourself).
+1. Download the compiled `.jar` file from the [releases](https://github.com/bluqen/EasyHologramPlugin/target/) page (or build it yourself).
 2. Place it in the `/plugins/` folder of your Spigot server.
 3. Restart or reload the server.
 
