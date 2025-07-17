@@ -1,0 +1,9 @@
+name: EasyHologram
+version: '1.0-SNAPSHOT'
+main: me.bluqen.easyHologram.EasyHologram
+api-version: '1.21'
+commands:
+  spawnhologram:
+    description: Spawns a hologram with multiple lines separated by ";"
+  despawnhologram:
+    description: Despawn the last spawned hologram
