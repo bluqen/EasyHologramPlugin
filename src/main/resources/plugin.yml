@@ -1,0 +1,7 @@
+name: EasyHologram
+version: '1.0-SNAPSHOT'
+main: me.bluqen.easyHologram.EasyHologram
+api-version: '1.21'
+commands:
+  hologram:
+    description: Spawns a hologram with multiple lines separated by ";"
